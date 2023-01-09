@@ -114,5 +114,8 @@
     <ClCompile Include="민주_포인터심화quiz12.cpp">
       <Filter>소스 파일\정민주</Filter>
     </ClCompile>
+    <ClCompile Include="이새진_단어중복_1157.cpp">
+      <Filter>소스 파일\이새진</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
