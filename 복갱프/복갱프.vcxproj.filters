@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\김승제">
+      <UniqueIdentifier>{1bd97af6-8e50-4f88-a535-7976ff740f6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\조하은">
+      <UniqueIdentifier>{c89bd68f-96df-4c30-8400-b5783f68050b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\이새진">
+      <UniqueIdentifier>{273762c5-3068-400b-93fd-bd5f774bdc47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\김지안">
+      <UniqueIdentifier>{306895c2-2bd7-47d6-9e1a-4084c1821d95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\정민주">
+      <UniqueIdentifier>{d01d5f38-3b28-4428-a22a-78344e1e0de6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\주민기">
+      <UniqueIdentifier>{572d83a9-4b70-42a0-84a0-a88b4dd4842a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Checking_Assignment.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="김승제 구조체 1,3.cpp">
+      <Filter>소스 파일\김승제</Filter>
+    </ClCompile>
+    <ClCompile Include="이새진_달팽이.cpp">
+      <Filter>소스 파일\이새진</Filter>
+    </ClCompile>
+    <ClCompile Include="이새진_벌집.cpp">
+      <Filter>소스 파일\이새진</Filter>
+    </ClCompile>
+    <ClCompile Include="이새진_분수 찾기.cpp">
+      <Filter>소스 파일\이새진</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer_1.cpp">
+      <Filter>소스 파일\주민기</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer_Array.cpp">
+      <Filter>소스 파일\주민기</Filter>
+    </ClCompile>
+    <ClCompile Include="String.cpp">
+      <Filter>소스 파일\주민기</Filter>
+    </ClCompile>
+    <ClCompile Include="동적할닫ㅇ.cpp">
+      <Filter>소스 파일\주민기</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_재귀10진수를이진수로.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz07.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz11.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_포인터심화quiz04.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_포인터심화quiz06.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_포인터심화quiz07.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_포인터심화quiz08.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_포인터심화quiz09.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_포인터심화quiz01.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_포인터심화quiz02.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_포인터심화quiz03.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="이새진_벌집(주석).cpp">
+      <Filter>소스 파일\이새진</Filter>
+    </ClCompile>
+    <ClCompile Include="이새진_분수찾기(주석).cpp">
+      <Filter>소스 파일\이새진</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
