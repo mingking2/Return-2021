@@ -33,10 +33,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Checking_Assignment.cpp">
+    <ClCompile Include="주교수_Checking_Assignment.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="김승제 구조체 1,3.cpp">
+    <ClCompile Include="김승제_구조체 1,3.cpp">
       <Filter>소스 파일\김승제</Filter>
     </ClCompile>
     <ClCompile Include="이새진_달팽이.cpp">
@@ -48,16 +48,16 @@
     <ClCompile Include="이새진_분수 찾기.cpp">
       <Filter>소스 파일\이새진</Filter>
     </ClCompile>
-    <ClCompile Include="Pointer_1.cpp">
+    <ClCompile Include="주민기_Pointer_1.cpp">
       <Filter>소스 파일\주민기</Filter>
     </ClCompile>
-    <ClCompile Include="Pointer_Array.cpp">
+    <ClCompile Include="주민기_Pointer_Array.cpp">
       <Filter>소스 파일\주민기</Filter>
     </ClCompile>
-    <ClCompile Include="String.cpp">
+    <ClCompile Include="주민기_String.cpp">
       <Filter>소스 파일\주민기</Filter>
     </ClCompile>
-    <ClCompile Include="동적할닫ㅇ.cpp">
+    <ClCompile Include="주민기_동적할당.cpp">
       <Filter>소스 파일\주민기</Filter>
     </ClCompile>
     <ClCompile Include="하은_재귀10진수를이진수로.cpp">
