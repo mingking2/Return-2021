@@ -154,12 +154,12 @@
     <ClCompile Include="김승제_구조체 1,3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="김승제_문자열숙제1,2.cpp" />
-    <ClCompile Include="주민기_동적할당.cpp">
+    <ClCompile Include="김승제_문자열숙제1,2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="주민기_동적할당.cpp" />
     <ClCompile Include="민주_포인터심화quiz01.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <DeploymentContent>false</DeploymentContent>
     </ClCompile>
     <ClCompile Include="민주_포인터심화quiz02.cpp">
