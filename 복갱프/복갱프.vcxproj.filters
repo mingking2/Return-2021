@@ -102,5 +102,17 @@
     <ClCompile Include="김승제_문자열숙제1,2.cpp">
       <Filter>소스 파일\김승제</Filter>
     </ClCompile>
+    <ClCompile Include="민주_포인터심화quiz13.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_포인터심화quiz14.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_포인터심화quiz11.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_포인터심화quiz12.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
