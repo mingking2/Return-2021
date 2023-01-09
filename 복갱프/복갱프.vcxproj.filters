@@ -102,5 +102,8 @@
     <ClCompile Include="김승제_문자열숙제1,2.cpp">
       <Filter>소스 파일\김승제</Filter>
     </ClCompile>
+    <ClCompile Include="이새진_단어공부_1157.cpp">
+      <Filter>소스 파일\이새진</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
