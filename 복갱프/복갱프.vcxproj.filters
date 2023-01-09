@@ -99,5 +99,8 @@
     <ClCompile Include="이새진_분수찾기(주석).cpp">
       <Filter>소스 파일\이새진</Filter>
     </ClCompile>
+    <ClCompile Include="김승제_문자열숙제1,2.cpp">
+      <Filter>소스 파일\김승제</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
