@@ -14,8 +14,8 @@ int main() {
 
 	printf("\n");
 
-	for (int i = 0; i < 10; i++) {
-		for (int j = i; j < 10; j++) {
+	for (int i = 0; i < 10; i++) {	
+		for (int j = i; j < 10; j++) {	
 			if (i < j) {
 				if (a[i] % 2 == 0) {		//a[i]°¡ Â¦¼ö
 					if (a[j] % 2 != 0) {	//a[j]°¡ È¦¼ö
