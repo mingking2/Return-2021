@@ -18,5 +18,5 @@ int main() {
 
 	printf("%d %d %d", *px, *py, *pz);
 
-	return 0;
+	
 }
