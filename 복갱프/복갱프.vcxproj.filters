@@ -201,5 +201,8 @@
     <ClCompile Include="하은_포인터심화quiz10.cpp">
       <Filter>소스 파일\조하은</Filter>
     </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz14.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
