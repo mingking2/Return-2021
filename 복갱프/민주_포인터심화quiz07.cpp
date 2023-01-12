@@ -13,3 +13,4 @@ int main() {
 	input(&x,&y,&z);
 	output(&x,&y,&z);
 }
+
