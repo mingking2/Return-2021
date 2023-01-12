@@ -16,7 +16,7 @@ int main() {
 		if (ch[i] == '\n')
 			break;
 	}
-	for (index = 0; ch[index] != '#'; index++) {}
+	for (index = 0; ch[index] != '#'; index++);
 	for (int i = index - 1; i >= 0; i--) {
 		printf("%c", *(value + i));
 	}
