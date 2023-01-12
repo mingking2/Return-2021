@@ -31,7 +31,7 @@ int reverse(int n) {
 		printf("%d ", arr[i]);
 	}
 
-	return 0;
+
 }
 
 int main() {
