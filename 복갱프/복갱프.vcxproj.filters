@@ -207,5 +207,8 @@
     <ClCompile Include="민주_포인터심화quiz05.cpp">
       <Filter>소스 파일\정민주</Filter>
     </ClCompile>
+    <ClCompile Include="김승제_백준기본수학1_10757.cpp">
+      <Filter>소스 파일\김승제</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

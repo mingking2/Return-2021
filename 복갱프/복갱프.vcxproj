@@ -139,8 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="민주_포인터심화quiz05.cpp" />
-    <ClCompile Include="이새진_단어중복_1157.cpp" />
+    <ClCompile Include="김승제_백준기본수학1_10757.cpp" />
+    <ClCompile Include="민주_포인터심화quiz05.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="이새진_단어중복_1157.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="주교수_Checking_Assignment.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
