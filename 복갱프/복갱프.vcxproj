@@ -314,6 +314,7 @@
     <ClCompile Include="하은_포인터심화quiz12.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz13.cpp" />
     <ClCompile Include="하은_포인터심화quiz14.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
