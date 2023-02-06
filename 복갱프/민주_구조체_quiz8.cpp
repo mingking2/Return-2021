@@ -21,12 +21,11 @@ int main(void) {
 	struct complex s1;
 	struct complex s2;
 
-	scanf("%f %f", &s1.real_num, &s1.fake_num);
-	scanf("%f %f", &s2.real_num, &s2.fake_num);
+	scanf("%lf %lf", &s1.real_num, &s1.fake_num);
+	scanf("%lf %lf", &s2.real_num, &s2.fake_num);
 	struct complex answer = add(s1, s2);
 	printf("%.1f %.1fi", answer.real_num, answer.fake_num);
 	
-
 }
 
 
