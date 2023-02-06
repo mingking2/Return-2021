@@ -8,10 +8,18 @@ int main() {
 	int sub = 0, count = 0;
 	char sub_lan;
 	int a = 0;
+	int end = 0;
+	
 
-	scanf("%s", &lan);
+	scanf("%s", lan);
 	max = strlen(lan);
 
+	for (int j = 0; j <= max; j++) {
+		if ((lan[j] >= 'a') && (lan[j] <= 'z'))
+		{
+			lan[j] = lan[j] - 'a' + 'A';
+		}
+	}
 	while (a <= max) {
 		sub = 0;
 		for (int j = a; j <= max; j++) {
@@ -36,6 +44,13 @@ int main() {
 				sub_lan = sub_lan - 'a' + 'A';
 			}
 			printf("%c", sub_lan);
+			break;
+		}
+		if (alpha == lan[a]) {
+			end += 1;
+			alpha++;
+		}
+		if (end == 26) {
 			break;
 		}
 		a++;

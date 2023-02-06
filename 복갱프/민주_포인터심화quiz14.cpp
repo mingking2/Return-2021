@@ -7,7 +7,7 @@ int add_to_k(int *A, int *B) {
 	int sum = 0;
 	int total_sum = 0;
 	for (int* i = A; i <= B; i++) {
-		sum += + *i;
+		sum += *i;
 		total_sum += sum;
 		printf("sum : %d, pre : %d \n", sum, total_sum);
 	}

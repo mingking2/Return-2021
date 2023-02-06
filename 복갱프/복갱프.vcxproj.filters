@@ -117,5 +117,125 @@
     <ClCompile Include="이새진_단어중복_1157.cpp">
       <Filter>소스 파일\이새진</Filter>
     </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz01.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz02.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz04.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz08.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz09.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz10.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz14.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_#4ppt_p20.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_#4ppt_p27_1~4.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_#4ppt_p28_1.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_#4ppt_p28_2.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_#4ppt_p28_3.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz01.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz02.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz03.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz04.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz05.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz06.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz07.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz08.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz09.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz10.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz11.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz12.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz13.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz14.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="지안_포인터심화quiz15.cpp">
+      <Filter>소스 파일\김지안</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz03.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz12.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_포인터심화quiz05.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="김승제_백준기본수학1_10757.cpp">
+      <Filter>소스 파일\김승제</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz05.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz13.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz15.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="하은_포인터심화quiz06.cpp">
+      <Filter>소스 파일\조하은</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_구조체_quiz8.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_구조체_quiz7.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="민주_구조체_quiz6.cpp">
+      <Filter>소스 파일\정민주</Filter>
+    </ClCompile>
+    <ClCompile Include="김승제_구조체_모음.cpp">
+      <Filter>소스 파일\김승제</Filter>
+    </ClCompile>
+    <ClCompile Include="이새진_구조체_모음.cpp">
+      <Filter>소스 파일\이새진</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
